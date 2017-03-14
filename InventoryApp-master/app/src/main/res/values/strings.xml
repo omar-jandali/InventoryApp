@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="empty_view_title_text">No Products in Stock</string>
+    <string name="empty_view_subtitle_text">Please push Button to add a Product</string>
+    <string name="product_supplier">Supplier</string>
+    <string name="product_detail">Product</string>
+    <string name="category_supplier">Supplier</string>
+    <string name="hint_supplier_name">Enter Supplier Name</string>
+    <string name="hint_supplier_email">Enter Supplier Email</string>
+    <string name="hint_product_name">Enter Product Name</string>
+    <string name="hint_product_price">Enter Price</string>
+    <string name="hint_product_stock">Enter Stock Quantity</string>
+    <string name="action_reduce_stock">Reduce Stock</string>
+    <string name="action_increase_stock">Increase Stock</string>
+    <string name="action_save">Save</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Entries</string>
+    <string name="action_delete">Delete Product</string>
+    <string name="action_order">Order Product</string>
+    <string name="unknown_stock">Unknown Stock Qty</string>
+    <string name="editor_activity_title_new_product">Add New Product</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+    <string name="editor_insert_product_failed">Insert Product Failed</string>
+    <string name="editor_insert_product_successful">Insertion Successful</string>
+    <string name="editor_update_product_failed">Update Failed</string>
+    <string name="editor_update_product_successful">Update Successful</string>
+    <string name="unsaved_changes_dialog_msg">Discard Changes and quit Editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_product_failed">Error with deleting Product</string>
+    <string name="editor_delete_product_successful">Product Deleted</string>
+    <string name="order_dialog_msg">Sure you want to order this Product?</string>
+    <string name="order">Order</string>
+    <string name="order_greetings">Greetings from My Happy Store</string>
+    <string name="order_body">Please accept our order for the following product:</string>
+    <string name="order_address">Our address is on your records.</string>
+    <string name="order_subject">"Order for: "</string>
+    <string name="toast_increase_stock">"Item Increased to "</string>
+    <string name="toast_no_stock">Cannot sell, no Stock</string>
+    <string name="toast_stock_decrease">"Item Decreased to "</string>
+    <string name="needs_name">Needs Name</string>
+
+
+</resources>
