@@ -102,8 +102,7 @@ public class EditorActivity extends AppCompatActivity implements
         Log.v(LOG_TAG, "saveProduct pictureString: " + pictureString);
 
         // Check if this is supposed to be a new product and all the fields are blank
-        if (mCurrentProductUri == null ||
-                TextUtils.isEmpty(nameString) || TextUtils.isEmpty(stockString) ||
+        if (TextUtils.isEmpty(nameString) || TextUtils.isEmpty(stockString) ||
                 TextUtils.isEmpty(priceString) || pictureUri == null) {
             //New product saved without changes. Don't create a database entry
             return;
